@@ -1,2 +1,0 @@
-"DTS_ROOT":"/home/tuan.nguyen1/Persional_file/Zephyr/modules/hal/stm32"
-"DTS_ROOT":"/home/tuan.nguyen1/Persional_file/Zephyr/modules/hal/nxp"
